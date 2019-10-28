@@ -1,12 +1,8 @@
-using system;
-
-namespace cs-hello-world
+using System;
+public class Program
 {
-    class Program
-    {
-        static void Main(string[] args)
+	public static void Main(string[] args)
         {
             Console.Write("Hello World...\n");
         }
-    }
 }
